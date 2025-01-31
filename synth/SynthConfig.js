@@ -29,7 +29,7 @@ var beepbox;
     Config.ratioVal = 12;
     Config.attackVal = 0;
     Config.releaseVal = 0.25;
-    Config.versionDisplayName = "CardboardBox 2.0";
+    Config.versionDisplayName = "poopbox 2.0";
     Config.scales = toNameMap([
         //   C     Db      D     Eb      E      F     F#      G     Ab      A     Bb      B      C
         { name: "Free", flags: [true, true, true, true, true, true, true, true, true, true, true, true] },
